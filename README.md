@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeeMcShmee
-- 👀 I’m interested in advancing in coding, hoping to become a full time programer.
-- 🌱 I’m currently learning js, html5
+- 👀 I’m interested in advancing in networking, coding, hoping to become a network administrator.
+- 🌱 I’m currently learning bash
 - 💞️ I’m looking to collaborate on simple projects to give me hands on experience.
 - 📫 How to reach me deemcshmee@gmail.com
 
